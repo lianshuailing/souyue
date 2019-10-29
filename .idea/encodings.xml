@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-friend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-gathering" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-qa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-recruit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-split" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sy-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

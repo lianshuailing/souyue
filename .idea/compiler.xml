@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sy-article" />
+        <module name="sy-base" />
+        <module name="sy-common" />
+        <module name="sy-config" />
+        <module name="sy-eureka" />
+        <module name="sy-friend" />
+        <module name="sy-gathering" />
+        <module name="sy-manager" />
+        <module name="sy-qa" />
+        <module name="sy-recruit" />
+        <module name="sy-search" />
+        <module name="sy-sms" />
+        <module name="sy-split" />
+        <module name="sy-user" />
+        <module name="sy-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sy-article" options="-parameters" />
+      <module name="sy-base" options="-parameters" />
+      <module name="sy-common" options="-parameters" />
+      <module name="sy-config" options="-parameters" />
+      <module name="sy-eureka" options="-parameters" />
+      <module name="sy-friend" options="-parameters" />
+      <module name="sy-gathering" options="-parameters" />
+      <module name="sy-manager" options="-parameters" />
+      <module name="sy-qa" options="-parameters" />
+      <module name="sy-recruit" options="-parameters" />
+      <module name="sy-search" options="-parameters" />
+      <module name="sy-sms" options="-parameters" />
+      <module name="sy-split" options="-parameters" />
+      <module name="sy-user" options="-parameters" />
+      <module name="sy-web" options="-parameters" />
+    </option>
+  </component>
+</project>

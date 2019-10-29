@@ -1,0 +1,20 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: sy‐recruit #指定服务名
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.1.190:3306/tensquare_recruit?characterEncoding=UTF8
+    username: root
+    password: souyue
+  jpa:
+    database: MySQL
+    show‐sql: true
+    generate‐ddl: true
+
+
+#sy:
+#  worker:
+#    workerId: 1
+#    dataCenterId: 1

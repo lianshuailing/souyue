@@ -1,0 +1,19 @@
+server:
+  port: 12000
+
+spring:
+  application:
+    name: sy-config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/lian_shuai_ling/souyue.git
+  rabbitmq:
+    host: 192.168.1.190
+
+management: #暴露触发消息总线的地址
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh #发post请求时得在最后加上它

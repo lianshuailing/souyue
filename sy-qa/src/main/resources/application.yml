@@ -1,0 +1,18 @@
+server:
+  port: 9003
+spring:
+  application:
+    name: sy‐qa #指定服务名
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.1.190:3306/tensquare_qa?characterEncoding=UTF8
+    username: root
+    password: souyue
+  jpa:
+    database: MySQL
+    show‐sql: true
+    generate‐ddl: true
+
+feign:
+  hystrix:
+    enabled: true
